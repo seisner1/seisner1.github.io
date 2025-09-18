@@ -5,4 +5,4 @@ header:
 permalink: /research/
 ---
 
-# Trends and Variability in Arctic Atlantic Water in the Central Arctic
+## Trends and Variability in Arctic Atlantic Water in the Central Arctic
