@@ -2,5 +2,5 @@
 title: Publications
 header:
   image:
-permalink: /research/
+permalink: /publications/
 ---
