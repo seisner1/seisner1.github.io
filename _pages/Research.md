@@ -1,7 +1,7 @@
 ---
 title: Research
 header:
-  image:
+  image: assets/images/20240803_132748.jpg
 permalink: /research/
 ---
 
