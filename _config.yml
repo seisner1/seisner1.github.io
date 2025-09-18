@@ -98,6 +98,11 @@ defaults:
       layout: single
       author_profile: true
 
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
 category_archive:
   type: liquid
   path: /categories/
