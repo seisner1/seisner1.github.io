@@ -11,4 +11,4 @@ I am currently investigating long-term trends in the transport of Atlantic Water
 
 Using the [SODA4](https://soda.umd.edu) reanalysis developed in our lab, I am trying to understand how much the heat transport by Atlantic Water has increased in recent decades and what the dominant modes of variability are. I am particularly interested in understanding if the increases in transport of Atlantic Water to the Amerasian Basin have resulted in changes to the structure and concentration of nutrients and the location of the subsurface chlorophyll maximum, as has recently been observed in the Eurasian Arctic by [Polyakov et al., 2025](https://www.science.org/doi/10.1126/sciadv.adq7580).
 
-<img src="/assets/images/acbc_fig1.jpg" width="100%">
+<img src="/assets/images/acbc_fig1.jpg" width="60%">
