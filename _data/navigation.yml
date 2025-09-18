@@ -1,8 +1,8 @@
 main:
   - title: "Research Projects"
-    url: /_pages/Research.md
+    url: /Research/
   - title: "Publications"
-    url: /_pages/Publications.md
+    url: /Publications/
   - title: "Tags"
     url: /tags/
   - title: "About"
