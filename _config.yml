@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shaun Eisner"
   avatar : "/assets/images/20241006_141056.jpg"
-  bio    : "LOREM IPSUM"
+  bio    : "Polar Oceanography, Ocean Climate, Data Assimilation, Biological-Physical Interactions, Remote Sensing"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
