@@ -1,7 +1,7 @@
 ---
 title: About Me
 header:
-  image: "/assets/images/20240803_132748.jpg"
+  image: /assets/images/20240803_132748.jpg
 layout: single
 classes: wide
 author_profile: true
