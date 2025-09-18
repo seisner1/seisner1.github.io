@@ -67,12 +67,12 @@ author:
       url: "https://github.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/shaun-eisner-4673b7177"
+      url: "https://www.linkedin.com/in/shaun-eisner-4673b7177"
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0005-1098-5688"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:seisner1@umd.edu"
 
 footer:
