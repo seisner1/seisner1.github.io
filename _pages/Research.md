@@ -6,7 +6,7 @@ permalink: /research/
 ---
 
 ## Pan-Arctic Seasonal Mixed Layer Dynamics
-I am currently using a suite of ocean reanalyses to reconstruct a seasonal pan-Arctic mixed layer climatology.
+The Arctic as a whole is well-known for it's complicated vertical structure which consists of layers of seasonal water mass remnants, advected subpolar water masses, and river outflows. This can lead to a complex and highly variable mixed layer structure throughout the Arctic. I am currently using a suite of ocean reanalyses to reconstruct a seasonal pan-Arctic mixed layer climatology, with a primary interest in cataloguing the difference in seasonal mixed layer characteristics amongst the various Arctic shelves. 
 
 ## Trends and Variability in Arctic Atlantic Water in the Central Arctic
 
