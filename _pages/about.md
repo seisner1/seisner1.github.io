@@ -1,8 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
+
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Prior to my current position at the University of Maryland, I completed an undergraduate degree in Physics at the Georgia Institute of Technology. While there, I did research in dynamical systems, with a focus on fluid dynamics and biophysical systems (ranging from ecological models to cardiac models). I have always been particularly interested in understanding how systems of living things are affected by their environment and how these interactions can be described mathematically.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Beyond my academic work, I am extremely passionate about earth systems, ecology, and environmental science. I am most at home in nature and spend a significant amount of my free time outdoors and volunteering with children to teach basic concepts in earth sciences, land stewardship, and sustainability. 
