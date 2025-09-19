@@ -10,4 +10,4 @@ Beyond my academic work, I am extremely passionate about earth systems, ecology,
 
 "_Man is not alone on this planet. He is part of a community, upon which he depends absolutely._" - Ishmael by Daniel Quinn
 
-<img src=../assets/20250212_134117.jpg width=60%>
+<img src=/assets/20250212_134117.jpg width="60%">
