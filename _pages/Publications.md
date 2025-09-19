@@ -9,9 +9,11 @@ permalink: /publications/
 
 **Eisner, S.**, Carton, J. The Impacts of Thermal Fronts and Sea Ice Motion on the
 Variability of Arctic Near-Surface Currents._104th Annual AMS Meeting_, 2024.
+
 **Eisner, S.**, Cooper, L., Grebmeier, J., Carton, J. Evaluating the Impact
 of Summer and Fall Storms on Seasonal and Subseasonal Chlorophyll Dynamics in the
 Bering and Chukchi Seas. _AGU Fall Meeting_, 2024.
+
 **Eisner, S.**, Carton, J., Byrne, D., Grodsky, S., Leuliette, E. The Development of a New Daily Global Mesoscale Blended Ocean Surface Currents (BOSC) Product. _EGU General Assembly_, 2023.
 
 
