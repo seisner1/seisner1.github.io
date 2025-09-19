@@ -1,5 +1,7 @@
 ---
 permalink: /about/
+header:
+  image: assets/images/20240803_132748.jpg
 title: "About Me"
 
 ---
