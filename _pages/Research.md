@@ -8,7 +8,7 @@ permalink: /research/
 ## Pan-Arctic Seasonal Mixed Layer Dynamics
 The Arctic as a whole is well-known for it's complicated vertical structure which consists of layers of seasonal water mass remnants, advected subpolar water masses, and river outflows. This can lead to a complex and highly variable mixed layer structure throughout the Arctic. I am currently using a suite of ocean reanalyses to reconstruct a seasonal pan-Arctic mixed layer climatology, with a primary interest in cataloguing the difference in seasonal mixed layer characteristics amongst the various Arctic shelves. 
 
-## Trends and Variability in Arctic Atlantic Water in the Central Arctic
+## Trends and Variability in Arctic Atlantic Water
 
 I am currently investigating long-term trends in the transport of Atlantic Water into the Amerasian Basin. The Arctic Circumpolar Boundary Current is known to carry warm, salty Atlantic Water into the Eurasian Basin, where some amount of that water crosses the Lomonosov Ridge into the Amerasian Arctic. However, limited observations have made it difficult to assess long-term trends in the transport of Atlantic Water past the ridge or how that transport has varied in time.
 
