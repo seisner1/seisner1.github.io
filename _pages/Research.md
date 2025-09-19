@@ -1,5 +1,5 @@
 ---
-title: Selected Talks & Publications
+title: Research Projects
 header:
   image: assets/images/20240803_132748.jpg
 permalink: /research/
