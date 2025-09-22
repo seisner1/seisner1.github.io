@@ -32,4 +32,4 @@ Additionally, I am interested in assessing the role of atmospheric climate patte
 
 Blended Ocean Surface Currents (BOSC) is a 1/6 degree global, near-real time ocean surface curent product. It builds upon the work of other well-known ocean current products, such as the Copernicus GlobCurrent and the OSCARv2. All of these products make use of satellite altimetry and surface winds to reconstruct a best estimate of the near-surface Geostrophic and Ekman currents. BOSC augments this methodology to include additional constraints based on satellite tracer obserations. Currently, BOSC incorporates observations of Sea Surface Temperature and Sea Ice motion vectors to improve performance in the tropics and high latitudes, where Geostrophy and Ekman balance break down. A proof-of-concept shows that the ice motion and SST-derived methodology of BOSC can adequately reproduce the "ground truth" surface currents in an Arctic reanalysis as shown in the figure below.
 
-<img src="/assets/images/image_2025-09-22_005925545.png" width="60%">
+<img src="/assets/images/image_2025-09-22_005925545.png" width="80%">
