@@ -8,7 +8,7 @@ permalink: /research/
 ## Pan-Arctic Seasonal Mixed Layer Dynamics
 The Arctic as a whole is well-known for it's complicated vertical structure which consists of layers of seasonal water mass remnants, advected subpolar water masses, and river outflows. This can lead to a complex and highly variable mixed layer structure throughout the Arctic. I am currently using a suite of ocean reanalyses to reconstruct a seasonal pan-Arctic mixed layer climatology, with a primary interest in cataloguing the difference in seasonal mixed layer characteristics amongst the various Arctic shelves. 
 
-<img src="assets/images/Picture2.png" width="60%">
+<img src="/assets/images/Picture2.png" width="60%">
 
 
 
@@ -26,7 +26,7 @@ Using the SODA4 reanalysis alongside satellite observations from the MODIS-AQUA 
 
 Additionally, I am interested in assessing the role of atmospheric climate patterns (such as the Arctic Dipole Anomaly) in modulating phytoplankton phenology and contrasting if the observed trends in satellite ocean color in various regions of the arctic are the result of different environmental drivers.
 
-<img src="assets/images/Picture1.png" width="60%">
+<img src="/assets/images/Picture1.png" width="60%">
 
 ## Blended Ocean Surface Currents
 
