@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Shaun Eisner
-email: seisner1@umd.edu
+email: eisnersh@oregonstate.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "<br> Research Interests"
   avatar : "/assets/images/20241006_141056.jpg"
-  bio    : "Polar Oceanography, Ocean Climate, Data Assimilation, Biological-Physical Interactions, Remote Sensing"
+  bio    : "Ocean-Ecosystem Coupling, Remote Sensing, Bio-optics, Plankton Physiology & Ecology, Ocean Biogeochemistry, Polar Oceanography, Mixed Layer Dynamics, Ocean Data Assimilation"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
