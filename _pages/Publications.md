@@ -19,9 +19,8 @@ Bering and Chukchi Seas. _AGU Fall Meeting_, 2024.
 
 ## Publications
 
-**Eisner, S.**, Carton, J., Chafik, L. Atlantic Water heat transport variability and trends into the Amerasian Basin: A first look using SODA4. _Journal of Geophysical Research - Oceans_, 2025. _Under Review_. ([Preprint Here](https://essopenarchive.org/doi/full/10.22541/essoar.175648212.25221533))
+**Eisner, S. A.**, Carton, J. A., Chafik, L., and Smedsrud, L. H. (2026). Increased ocean heat transport to the central Arctic despite a well working Barents Sea Cooling Machine, Ocean Sci., [https://doi.org/10.5194/os-22-1073-2026](https://doi.org/10.5194/os-22-1073-2026)
 
-**Eisner, S.**, Carton, J., Chafik, L. Increases in Heat Transport to the Central
-Arctic have been Mitigated by a Barents Sea Cooling Machine. _In prep_.
+**Eisner, S. A.**, Carton, J. A., & Chafik, L. (2025). Atlantic water heat transport variability and trends into the Amerasian Basin: A first look using SODA4. Journal of Geophysical Research: Oceans. [https://doi.org/10.1029/2025JC023382](https://doi.org/10.1029/2025JC023382)
 
 
